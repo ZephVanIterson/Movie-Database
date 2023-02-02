@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1585365418 source:d:\ics4u\imdb movies\main.cpp
+	"Movie.h"
+
+1585367090 d:\ics4u\imdb movies\include\movie.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<math.h>
+	<apmatrix.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<stdlib.h>
+	<math.h>
+	<bits/stdc++.h>
+
+1585080844 source:d:\ics4u\imdb movies\src\movie.cpp
+	"Movie.h"
+
+1585366421 source:d:\ics4u\imdb movies\src\database.cpp
+	"Movie.h"
+
+1585074333 d:\ics4u\imdb movies\include\database.h
+
+1585366421 source:d:\ics4u\imdb movies\functions.cpp
+	"Movie.h"
+
